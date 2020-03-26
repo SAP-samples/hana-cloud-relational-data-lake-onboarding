@@ -42,4 +42,4 @@ Are you experiencing difficulties loading sample data into SAP HANA Cloud, data 
 
 # License
 Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](https://github.wdf.sap.corp/staging-for-SAP-samples-public/hana-cloud-relational-data-lake-onboarding/blob/master/LICENSE.pdf).
+This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](https://github.wdf.sap.corp/staging-for-SAP-samples-public/hana-cloud-relational-data-lake-onboarding/blob/master/LICENSE).
