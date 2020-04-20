@@ -41,4 +41,4 @@ Are you experiencing difficulties loading sample data into SAP HANA Cloud, data 
 - Contact [SAP Product Support](https://support.sap.com/en/my-support/product-support.html) if you are still encountering difficulties.
 
 # License
-Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](https://github.wdf.sap.corp/staging-for-SAP-samples-public/hana-cloud-relational-data-lake-onboarding/blob/master/LICENSE).
+Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/LICENSE).
