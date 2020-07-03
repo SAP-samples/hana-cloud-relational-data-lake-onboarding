@@ -1,4 +1,4 @@
-<!--Copy and paste all content below this line when instructed by the documentation. -->
+--Copy and paste all content below this line when instructed by the documentation. 
 
 CREATE TABLE TUTORIAL_HANA_TABLES.CAMEOCODES (CODE varchar(4), CODE_DESC varchar(80));
 INSERT INTO TUTORIAL_HANA_TABLES.CAMEOCODES (CODE, CODE_DESC) VALUES ('010', '"Make statement not specified below"');
