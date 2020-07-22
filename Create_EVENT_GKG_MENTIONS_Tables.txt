@@ -1,4 +1,4 @@
-<!--Copy and paste all content below this line when instructed by the documentation.-->
+--Copy and paste all content below this line when instructed by the documentation.
 
 CALL SYSRDL#CG.REMOTE_EXECUTE('
 BEGIN
