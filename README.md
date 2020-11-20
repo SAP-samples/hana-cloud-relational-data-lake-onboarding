@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cloud-relational-data-lake-onboarding)](https://api.reuse.software/info/github.com/SAP-samples/hana-cloud-relational-data-lake-onboarding)
+
 # Description
 
 This project is for SAP HANA Cloud, data lake users who are reading the [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/80694cc56cd047f9b92cb4a7b7171bc2/latest/en-US), or [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/091bc50a962a4d4ba03b4bf2b8301ff5/latest/en-US) on SAP Help Portal.
@@ -56,7 +58,4 @@ Are you experiencing difficulties loading sample data into SAP HANA Cloud, data 
 
 # License
 Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the  [LICENSE](LICENSES/Apache-2.0.txt).
-
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cloud-relational-data-lake-onboarding)](https://api.reuse.software/info/github.com/SAP-samples/hana-cloud-relational-data-lake-onboarding)
-
 
