@@ -53,7 +53,7 @@ None.
 
 # How to obtain support
 Are you experiencing difficulties loading sample data into SAP HANA Cloud, data lake?
-- Read the [SAP HANA Cloud, Data Lake Quick Start](https://help.sap.com/viewer/product/DRAFT/SAP_HANA_DATA_LAKE/) tutorials carefully.
+- Read the [SAP HANA Cloud, Data Lake Quick Start](https://help.sap.com/viewer/product/SAP_HANA_DATA_LAKE/) tutorials carefully.
 - Contact [SAP Product Support](https://support.sap.com/en/my-support/product-support.html) if you are still encountering difficulties.
 
 # License
