@@ -23,9 +23,9 @@ Copy and paste these CREATE TABLE commands when instructed by the documentation.
 
 On the SAP Help Portal, you are currently following the Quick Start tutorials for SAP HANA Cloud, data lake. Either:
 
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/80694cc56cd047f9b92cb4a7b7171bc2/latest/en-US), or
+- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US), or
 
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/091bc50a962a4d4ba03b4bf2b8301ff5/latest/en-US), or
+- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US), or
 
 - [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/a89a80f984f21015b2b2c84d2498d36d/latest/en-US)
 
