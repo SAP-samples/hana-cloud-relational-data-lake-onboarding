@@ -2,31 +2,33 @@
 
 # Description
 
-This project is for SAP HANA Cloud, data lake users who are reading the [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US), [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US), or [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/a89a80f984f21015b2b2c84d2498d36d/latest/en-US) on SAP Help Portal.
+This project is for SAP HANA Cloud, data lake users who are reading one of the following tutorials on SAP Help Portal:
 
-This project contains three sample files required by the Quick Start tutorials:
+- [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US)
+- [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US)
+- [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/a89a80f984f21015b2b2c84d2498d36d/latest/en-US)
+
+For the two Data Lake (HANA-DB-Managed) tutorials, this project contains three sample files:
 
 - event_samp.CSV
 - gkg_samp.CSV
-- mentions_samp.CSV   
+- mentions_samp.CSV
 
-Download these three CSV files to your local file system as described in the **Download and Analyze Sample GDELT Data** topic in [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US), [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US), or [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/a89a80f984f21015b2b2c84d2498d36d/latest/en-US).
+For the Quick Start Tutorial for Data Lake, this project contains four sample files in the TPCH folder:
 
-This project contains two code snippets containing CREATE TABLE statements:
+- customer.tbl
+- nation.tbl
+- region.tbl
+- supplier.tbl
 
-- Create_EVENT_GKG_MENTIONS_Tables.txt
-- Create_CAMEOCODES_Table.txt
-
-Copy and paste these CREATE TABLE commands when instructed by the documentation.
+Download these files to your local file system as described in the tutorial you are following.
 
 # Requirements
 
-On the SAP Help Portal, you are currently following the Quick Start tutorials for SAP HANA Cloud, data lake. Either:
+On the SAP Help Portal, you are currently following one of the Quick Start tutorials for SAP HANA Cloud, data lake:
 
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US), or
-
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US), or
-
+- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US)
+- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US)
 - [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/a89a80f984f21015b2b2c84d2498d36d/latest/en-US)
 
 You've read the **Prerequisites** section on the first page of the above tutorial(s).
@@ -35,20 +37,22 @@ You've read the **Tutorial Scope** section on the first page of the above tutori
 
 # Download and Installation
 
-The **Download and Analyze Sample GDELT Data** topic in the Quick Start Tutorials asks you to download these three CSV files:
+The tutorials ask you to download specific sample files:
+
+The **Download and Analyze Sample GDELT Data** topic in the HANA DB-Managed tutorials asks you to download these three CSV files:
 
 - event_samp.CSV
 - gkg_samp.CSV
 - mentions_samp.CSV
 
-Download the three CSV files from this GitHub repository to your local file system, and continue reading the Quick Start tutorial.
+The **Download and Analyze Sample TPCH Data** topic in the Quick Start for Tutorial for Data Lake asks you to download these four files:
 
-The **Create Physical and Virtual Tables** topic in the Quick Start Tutorials asks you to copy and paste CREATE TABLE commands from these code snippets:
+- customer.tbl
+- nation.tbl
+- region.tbl
+- supplier.tbl
 
-- Create_EVENT_GKG_MENTIONS_Tables.txt
-- Create_CAMEOCODES_Table.txt
-
-Execute the commands as instructed in the Quick Start tutorial, and continue reading the tutorial.
+Download these files from this GitHub repository to your local file system, and continue reading the Quick Start tutorial.
 
 # Known Issues
 None.
