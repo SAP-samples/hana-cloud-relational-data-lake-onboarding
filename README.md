@@ -4,9 +4,8 @@
 
 This project is for SAP HANA Cloud, data lake users who are reading one of the following tutorials on SAP Help Portal:
 
-- [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US)
-- [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US)
-- [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/a89a80f984f21015b2b2c84d2498d36d/latest/en-US)
+- [Quick Start Tutorial for Data Lake (HANA DB-Managed)](https://help.sap.com/docs/SAP_HANA_DATA_LAKE/c005245f608a4040842af487f546192a/8ae85b53fe0c4c9b957a77e79299cb8c.html)
+- [Quick Start Tutorial for a Standalone Data Lake](https://help.sap.com/docs/SAP_HANA_DATA_LAKE/a89a80f984f21015b2b2c84d2498d36d/02710372f294441a9f2c7874763232b6.html)
 
 For the two Data Lake (HANA-DB-Managed) tutorials, this project contains three sample files:
 
@@ -27,9 +26,8 @@ Download these files to your local file system as described in the tutorial you 
 
 On the SAP Help Portal, you are currently following one of the Quick Start tutorials for SAP HANA Cloud, data lake:
 
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US)
-- [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US)
-- [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/a89a80f984f21015b2b2c84d2498d36d/latest/en-US)
+- [Quick Start Tutorial for Data Lake (HANA DB-Managed)](https://help.sap.com/docs/SAP_HANA_DATA_LAKE/c005245f608a4040842af487f546192a/8ae85b53fe0c4c9b957a77e79299cb8c.html)
+- [Quick Start Tutorial for a Standalone Data Lake](https://help.sap.com/docs/SAP_HANA_DATA_LAKE/a89a80f984f21015b2b2c84d2498d36d/02710372f294441a9f2c7874763232b6.html)
 
 You've read the **Prerequisites** section on the first page of the above tutorial(s).
 
@@ -63,5 +61,5 @@ Are you experiencing difficulties loading sample data into SAP HANA Cloud, data 
 - Contact [SAP Product Support](https://support.sap.com/en/my-support/product-support.html) if you are still encountering difficulties.
 
 # License
-Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the  [LICENSE](LICENSES/Apache-2.0.txt).
+Copyright © 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the  [LICENSE](LICENSES/Apache-2.0.txt).
 
